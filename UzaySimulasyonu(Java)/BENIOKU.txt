@@ -1,0 +1,10 @@
+Metin dosyaları dist klasöründe bulunmalıdır.
+Her ay 30 gün kabul edilmiştir.
+
+
+Nasıl kullanılır?
+
+[Enter]              : 1 döngü ileri
+[Tam sayı] + [Enter] : Tam sayı kadar döngü ileri
+[Z] + [Enter]        : Programın sonuna kadar döngü ileri
+[X] + [Enter]        : Programı kapat
