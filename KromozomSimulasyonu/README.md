@@ -1,4 +1,4 @@
-# Habitat Simülasyonu
+# Kromozom Simülasyonu
 
 Bu Proje C dilinde yazılmış olup Veri Yapıları dersinin 1. Ödevidir.
 
